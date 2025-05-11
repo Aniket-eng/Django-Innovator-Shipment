@@ -1,0 +1,10 @@
+- model: testapi.RoleModel
+  pk: 1
+  fields:
+    role_id: 1
+    role_Name: Admin
+- model: testapi.RoleModel
+  pk: 2
+  fields:
+    role_id: 2
+    role_Name: User_role

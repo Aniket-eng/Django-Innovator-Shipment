@@ -1,0 +1,40 @@
+- model: testapi.UserModel
+  pk: 1
+  fields:
+    id: 1
+    userName: John
+    email: LenJohn@example.com
+    password: John@123
+    user_role: 1
+- model: testapi.UserModel
+  pk: 2
+  fields:
+    id: 2
+    userName: max
+    email: max@example.com
+    password: max@123
+    user_role: 1
+- model: testapi.UserModel
+  pk: 3
+  fields:
+    id: 3
+    userName: dave
+    email: dave@example.com
+    password: dave@123
+    user_role: 2
+- model: testapi.UserModel
+  pk: 4
+  fields:
+    id: 4
+    userName: chapel
+    email: chapel@example.com
+    password: chapel@123
+    user_role: 2
+- model: testapi.UserModel
+  pk: 5
+  fields:
+    id: 5
+    userName: stark
+    email: stark@example.com
+    password: stark@123
+    user_role: 1
